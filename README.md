@@ -1,7 +1,14 @@
+<<<<<<< HEAD
 
 
 
 - git init -git status
+=======
+# "Git commands I should know by heart"
+
+- git init
+-git status
+>>>>>>> 0842d0555ae81296749034a9eb3282bc7031d704
 - git log
 - git add
 - git commit
@@ -13,6 +20,7 @@
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -21,6 +29,9 @@
 
 
  awesome-dev
+=======
+# awesome-dev
+>>>>>>> 0842d0555ae81296749034a9eb3282bc7031d704
 ## h2
 ### h3
 #### h4
